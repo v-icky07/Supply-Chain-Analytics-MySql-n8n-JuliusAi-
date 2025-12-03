@@ -1,0 +1,4 @@
+mysql://root:VjCjDHyRTmXkKlFrjAEYcXChDGswktwa@ballast.proxy.rlwy.net:27284/railway
+
+n8n setup - Gmail -> Extract file (csv to json) -> MySQL(railway server)
+I built an automated data pipeline using n8n to ingest Gmail-based CSV data into a cloud MySQL database, handled schema and datatype normalization, and used the cleaned data for downstream analytics.
